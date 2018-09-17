@@ -19,6 +19,8 @@
 + (BOOL)isIPod;
 + (BOOL)isIPhone;
 + (BOOL)isSimulator;
++ (BOOL)isOLEDScreen;
+
 
 + (BOOL)is58InchScreen;
 + (BOOL)is55InchScreen;
